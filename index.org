@@ -1,0 +1,30 @@
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+TITLE: Introduction to Reinforcement Learning
+#+AUTHOR: Joon Kwon
+#+LANGUAGE: fr
+#+DESCRIPTION: Web page of the course Introduction to Reinforcement Learning from Université Paris-Saclay
+#+KEYWORDS: joon,kwon,reinforcement learning learning,université paris-saclay
+\\
+
+[[https://www.universite-paris-saclay.fr/][Université Paris--Saclay]] --- 2023--2024\\
+
+Ce cours présente les notions et algorithmes de base de
+l'apprentissage par renforcement, et comporte un volet pratique.\\
+
+The course in given en French and the lecture notes are in English
+
+- 28 novembre :: Processus de décision markoviens --- TD
+- 30 novembre :: Opérateurs de Bellman et optimalité
+- 5 décembre :: Programmation dynamique
+- 7 décembre :: Méthodes tabulaires en apprentissage par renforcement -- I
+- 12 décembre :: Méthodes tabulaires en apprentissage par renforcement -- II
+- 19 décembre :: Approximation de la fonction valeur
+- 9 janvier :: Méthodes de gradient par rapport à la politique
+- 16 janvier :: Méthodes supplémentaires: acteur-critique & avec modèle.
+  
+* Références                                                       :noexport:
+* Variables locales                                                :noexport:
+# Local Variables:
+# org-html-postamble: nil
+# End:
